@@ -1,6 +1,6 @@
-||bilibili.com^
-||iqiyi.com^
-||weibo.com^
-||zhihu.com^
-||amazon.com^
-||deepseek.com^
+||bilibili.com^$client='Justin_iPhone',client='Justin_Mac'
+||iqiyi.com^$client='Justin_iPhone',client='Justin_Mac'
+||weibo.com^$client='Justin_iPhone',client='Justin_Mac'
+||zhihu.com^$client='Justin_iPhone',client='Justin_Mac'
+||amazon.com^$client='Justin_iPhone',client='Justin_Mac'
+||deepseek.com^$client='Justin_iPhone',client='Justin_Mac'
