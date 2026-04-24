@@ -2,6 +2,5 @@
 ||iqiyi.com^$client='Justin_iPhone'
 ||weibo.com^$client='Justin_iPhone'
 ||zhihu.com^$client='Justin_iPhone'
-||amazon.com^$client='Justin_iPhone'
 ||deepseek.com^$client='Justin_iPhone'
-||youtube.com^$client='Justin_iPhone'
+
