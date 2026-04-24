@@ -4,3 +4,4 @@
 ||zhihu.com^$client='Justin_iPhone',client='Justin_Mac'
 ||amazon.com^$client='Justin_iPhone',client='Justin_Mac'
 ||deepseek.com^$client='Justin_iPhone',client='Justin_Mac'
+||youtube.com^$client='Justin_iPhone',client='Justin_Mac'
